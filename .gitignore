@@ -2,3 +2,4 @@ _site/
 _draft/
 Gemfile.lock
 .jekyll-cache/
+.jekyll-metadata
